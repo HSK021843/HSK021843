@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HSK021843&layout=compact&theme=dracula)
+<br>
+![Hyeongseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=HSK021843&show_icons=true&theme=dracula)
